@@ -16,8 +16,8 @@
   background-image: url('../images/bg4.png');
   background-repeat: repeat-x;
   background-color: black;
-  animation: slideleft 6000s infinite linear;
-  -webkit-animation: slideleft 6000s infinite linear;
+  animation: slideleft 10000s infinite linear;
+  -webkit-animation: slideleft 10000s infinite linear;
   width: 100%;
   height: 100%;
 }
